@@ -1,4 +1,6 @@
 # test_front_final
+# Este frontend realiza el consumo de 2 APIs de login y registro de un back end realizado en laravel con autorizacion manejada a traves de JWT, y consume 3 APIs de Rick and Morty API, Listar, , además de consumir el chat de ChatGPT conectado a la API de OpenAI.
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
